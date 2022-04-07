@@ -1,1 +1,76 @@
 
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+
+				xmlns:atom="http://www.w3.org/2005/Atom"
+
+					xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+
+						xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
+<channel>
+
+	<title>Visual Stories for Game News Mania</title>
+
+		<atom:link href="https://raw.githubusercontent.com/gamenewsmaniaweb/web-stories/main/feed" rel="self" type="application/rss+xml" />
+
+			<link>https://www.gamenewsmania.in</link>
+
+				<description>Get daily news and top stories in Game News Mania Visual Stories</description>
+
+					<lastBuildDate>Fri, 6 Apr 2022 10:19:17 +0000</lastBuildDate>
+
+						<language>en-US</language>
+
+							<sy:updatePeriod>
+
+								hourly	</sy:updatePeriod>
+
+									<sy:updateFrequency>
+
+										1	</sy:updateFrequency>
+
+										<image>
+
+											<url>https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/favicon-32.png</url>
+
+												<title>Visual Stories for Game News Mania</title>
+
+													<link>https://www.gamenewsmania.in</link>
+
+														<width>32</width>
+
+															<height>32</height>
+
+															</image> 
+
+<item>
+
+		<title>Elon Musk posts a poll on twitter edit button</title>
+
+				<link>https://www.gamenewsmania.in/web-stories/elon-musk-posts-a-poll-on-twitter-edit-button</link>
+
+		<dc:creator><![CDATA[Game News Mania]]></dc:creator>
+
+				<pubDate>Fri, 6 Apr 2022 10:19:17 +0000</pubDate>
+
+					<description><![CDATA[		<div>
+
+								<a href="https://www.gamenewsmania.in/web-stories/elon-musk-posts-a-poll-on-twitter-edit-button">
+
+												<img src="https://cdn4.visualstories.com/gamenewsmania/images/1/14869686/14869686-960_picsart_04-06-122204_p.jpg" width="360" height="600" alt="Elon Musk posts poll on twitter edit button" />			</a>
+
+														</div>
+
+																]]></description>
+
+		</item>
+
+</channel>
+
+</rss>
